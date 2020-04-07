@@ -1,0 +1,35 @@
+html {
+  background-color: cornflowerblue;
+  display: block;
+}
+
+#createListDiv {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+input {
+  margin-left: 40%;
+}
+
+#listNames {
+  margin: 5px;
+}
+li {
+  background-color: white;
+  display: block;
+  list-style-type: none;
+  height: auto;
+  width: 245px;
+  margin: 15px auto;
+  padding: 5px;
+}
+li button {
+  float: right;
+  padding-right: 10px;
+}
